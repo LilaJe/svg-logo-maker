@@ -1,10 +1,10 @@
 # svg-logo-generator
-
-![Walkthrough Video](https://drive.google.com/file/d/1eyX5QaI8PYcJZ2wgv0Jin4iZMeLdqnlL/view)
-
-![Example SVG](https://github.com/LilaJe/svg-logo-maker/blob/main/dist/logo.svg)
     
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
+[Walkthrough Video](https://drive.google.com/file/d/1eyX5QaI8PYcJZ2wgv0Jin4iZMeLdqnlL/view)
+
+[Example SVG](https://github.com/LilaJe/svg-logo-maker/blob/main/dist/logo.svg)
     
 ## Description
     
