@@ -1,6 +1,6 @@
 # svg-logo-generator
 
-Walkthrough Video: file:///Users/lilaellis/Downloads/Untitled_%20May%2028,%202023%204_19%20PM.webm 
+Walkthrough Video: [(file:///Users/lilaellis/Downloads/Untitled_%20May%2028,%202023%204_19%20PM.webm)]
     
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
     
